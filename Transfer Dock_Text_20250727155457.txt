@@ -1,1 +1,49 @@
-https://chatgpt.com/backend-api/estuary/content?id=file-4kBW3YTuf5y2jhj6S6MCuf&ts=487114&p=fs&cid=1&sig=d77fc14975b64ab42514bbed456dd9c197cf50364a051087d93bd55f49ebfe2f
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Nihal - Student & Video Editor Portfolio">
+  <meta name="keywords" content="Nihal, video editor, portfolio">
+  <meta name="author" content="Nihal">
+  <title>Nihal | Portfolio</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; font-family: Arial, sans-serif; }
+    body { background-color: #f8f9fa; color: #333; line-height: 1.6; }
+    header { background-color: #343a40; color: white; padding: 2rem 1rem; text-align: center; }
+    header h1 { font-size: 2.5rem; }
+    header p { font-size: 1.2rem; margin-top: 0.5rem; }
+    section { padding: 2rem 1rem; max-width: 900px; margin: auto; }
+    .skills, .contact { margin-top: 2rem; }
+    .social a { color: #007bff; text-decoration: none; font-weight: bold; }
+    footer { text-align: center; padding: 1rem; background: #343a40; color: white; }
+    .profile-pic { max-width: 150px; border-radius: 50%; margin-bottom: 1rem; }
+    @media (max-width: 600px) {
+      header h1 { font-size: 2rem; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="https://via.placeholder.com/150" alt="Nihal" class="profile-pic">
+    <h1>Nihal</h1>
+    <p>Student & Video Editor</p>
+  </header>  <section>
+    <h2>About Me</h2>
+    <p>Hello! I'm Nihal, a passionate student with a talent for video editing. I enjoy bringing creativity to life through visual storytelling.</p><div class="skills">
+  <h2>Skills</h2>
+  <ul>
+    <li>Video Editing</li>
+    <!-- You can add more here -->
+  </ul>
+</div>
+
+<div class="contact">
+  <h2>Contact</h2>
+  <p>Connect with me on Instagram: <span class="social"><a href="https://instagram.com/nihalreddy09" target="_blank">@nihalreddy09</a></span></p>
+</div>
+
+  </section>  <footer>
+    <p>&copy; 2025 Nihal. All rights reserved.</p>
+  </footer>
+</body>
+</html>
